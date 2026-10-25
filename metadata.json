@@ -1,0 +1,6 @@
+{
+  "name": "SurveyPulse - Secure Web Survey & Analytics Platform",
+  "description": "Enterprise-grade web survey platform with role-based authentication, interactive question builder, dynamic responses, admin audit dashboard, and Chart.js analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
